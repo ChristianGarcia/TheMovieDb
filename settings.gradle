@@ -1,0 +1,1 @@
+include ':data-android', ':repository', ':domain', ':presentation', ':app'
